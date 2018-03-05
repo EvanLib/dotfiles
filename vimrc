@@ -45,6 +45,8 @@ call plug#begin('~/.local/share/nvim/plugged')
   Plug 'vim-airline/vim-airline'
   Plug 'vim-airline/vim-airline-themes'
   Plug 'w0rp/ale'
+  Plug 'kchmck/vim-coffee-script'
+  Plug 'faith/vim-go'
 call plug#end()
 
 " Dracula Theme
